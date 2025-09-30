@@ -1,21 +1,26 @@
-🌍 Country Data Lists
+# 🌍 Country Data Lists
 
-A comprehensive dataset of countries in CSV, JSON, and SQL formats. Includes basic, extended, and flag-specific information for all countries in the world. Suitable for applications, databases, or projects requiring structured country information.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Features
+A comprehensive dataset of countries in **CSV, JSON, and SQL formats**.  
+Includes basic, extended, and flag-specific information for all countries in the world.  
+Suitable for applications, databases, or projects requiring structured country information.
 
-Multiple Formats: CSV, JSON, and SQL.
+---
 
-Rich Data Fields: ISO codes, calling codes, currencies, regions, capitals, timezones, languages, area, population, flags, TLDs, and continents.
+## Features
 
-Ready for Databases: SQL files include CREATE TABLE and INSERT statements for instant import.
+- **Multiple Formats:** CSV, JSON, and SQL.
+- **Rich Data Fields:** ISO codes, calling codes, currencies, regions, capitals, timezones, languages, area, population, flags, TLDs, and continents.
+- **Ready for Databases:** SQL files include `CREATE TABLE` and `INSERT` statements for instant import.
+- **Up-to-date & Reliable:** Based on [Mledoze Countries dataset](https://github.com/mledoze/countries).
+- **Easy to Extend:** Add extra fields or modify CSV/SQL templates as needed.
 
-Up-to-date & Reliable: Based on Mledoze Countries dataset
-.
+---
 
-Easy to Extend: Add extra fields or modify CSV/SQL templates as needed.
+## Repository Structure
 
-Repository Structure
+
 country-data-lists/
 ├── csv/
 │   ├── countries_basic.csv
